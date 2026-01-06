@@ -59,3 +59,6 @@
 
 [init]
   defaultBranch = master
+[user]
+	email = xheni.prebibaj@upp.ai
+	name = Xheni Prebibaj
